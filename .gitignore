@@ -4,6 +4,8 @@ jspm_packages
 
 # Serverless directories
 .serverless
+.aws-sam
+.stackery
 
 # Mac
 .DS_Store

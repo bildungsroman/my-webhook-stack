@@ -1,3 +1,0 @@
-name: simple-web-service
-runtime: nodejs
-description: A basic of pattern for creating a serverless API or web service.
